@@ -1,4 +1,4 @@
-//Contributed By All
+//Contributors: All
 
 #pragma once
 #include"String.h"
