@@ -1,4 +1,4 @@
-Contributor: Tanya
+//Contributor: Tanya
 
 #include "Couture.h"
 
