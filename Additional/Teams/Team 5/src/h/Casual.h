@@ -1,4 +1,4 @@
-//Commited By Tanya
+//Contributor: Tanya
 
 #pragma once
 #include "ClothingItem.h"
